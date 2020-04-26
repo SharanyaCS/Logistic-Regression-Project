@@ -1,4 +1,4 @@
-# Logistic-Regression-Project
+# Logistic-Regression-Project-Advertising
 
 In this project ,I have worked on a duplicate advertising data set, indicating whether or not a particular internet user clicked on an Advertisement.I have created a model that will predict whether or not they will click on an ad based off the features of that user.
 
